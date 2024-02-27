@@ -1,0 +1,5 @@
+/Users/ashinireshana/Desktop/visual studio/labs/lab_sheet3/que_2/obj/Debug/net7.0/que_2.csproj.AssemblyReference.cache
+/Users/ashinireshana/Desktop/visual studio/labs/lab_sheet3/que_2/obj/Debug/net7.0/que_2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ashinireshana/Desktop/visual studio/labs/lab_sheet3/que_2/obj/Debug/net7.0/que_2.AssemblyInfoInputs.cache
+/Users/ashinireshana/Desktop/visual studio/labs/lab_sheet3/que_2/obj/Debug/net7.0/que_2.AssemblyInfo.cs
+/Users/ashinireshana/Desktop/visual studio/labs/lab_sheet3/que_2/obj/Debug/net7.0/que_2.csproj.CoreCompileInputs.cache

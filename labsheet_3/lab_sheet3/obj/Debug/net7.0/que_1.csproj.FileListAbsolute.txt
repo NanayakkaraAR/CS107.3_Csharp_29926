@@ -1,0 +1,15 @@
+/Users/ashinireshana/Desktop/visual studio/labs/lab_sheet3/lab_sheet3/bin/Debug/net7.0/que_1
+/Users/ashinireshana/Desktop/visual studio/labs/lab_sheet3/lab_sheet3/bin/Debug/net7.0/que_1.deps.json
+/Users/ashinireshana/Desktop/visual studio/labs/lab_sheet3/lab_sheet3/bin/Debug/net7.0/que_1.runtimeconfig.json
+/Users/ashinireshana/Desktop/visual studio/labs/lab_sheet3/lab_sheet3/bin/Debug/net7.0/que_1.dll
+/Users/ashinireshana/Desktop/visual studio/labs/lab_sheet3/lab_sheet3/bin/Debug/net7.0/que_1.pdb
+/Users/ashinireshana/Desktop/visual studio/labs/lab_sheet3/lab_sheet3/obj/Debug/net7.0/que_1.csproj.AssemblyReference.cache
+/Users/ashinireshana/Desktop/visual studio/labs/lab_sheet3/lab_sheet3/obj/Debug/net7.0/que_1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ashinireshana/Desktop/visual studio/labs/lab_sheet3/lab_sheet3/obj/Debug/net7.0/que_1.AssemblyInfoInputs.cache
+/Users/ashinireshana/Desktop/visual studio/labs/lab_sheet3/lab_sheet3/obj/Debug/net7.0/que_1.AssemblyInfo.cs
+/Users/ashinireshana/Desktop/visual studio/labs/lab_sheet3/lab_sheet3/obj/Debug/net7.0/que_1.csproj.CoreCompileInputs.cache
+/Users/ashinireshana/Desktop/visual studio/labs/lab_sheet3/lab_sheet3/obj/Debug/net7.0/que_1.dll
+/Users/ashinireshana/Desktop/visual studio/labs/lab_sheet3/lab_sheet3/obj/Debug/net7.0/refint/que_1.dll
+/Users/ashinireshana/Desktop/visual studio/labs/lab_sheet3/lab_sheet3/obj/Debug/net7.0/que_1.pdb
+/Users/ashinireshana/Desktop/visual studio/labs/lab_sheet3/lab_sheet3/obj/Debug/net7.0/que_1.genruntimeconfig.cache
+/Users/ashinireshana/Desktop/visual studio/labs/lab_sheet3/lab_sheet3/obj/Debug/net7.0/ref/que_1.dll
