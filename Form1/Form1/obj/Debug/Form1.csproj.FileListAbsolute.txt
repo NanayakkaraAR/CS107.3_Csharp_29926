@@ -1,0 +1,10 @@
+C:\Users\Ashini Reshana\source\repos\Form1\Form1\obj\Debug\Form1.csproj.AssemblyReference.cache
+C:\Users\Ashini Reshana\source\repos\Form1\Form1\obj\Debug\Form1.Form1.resources
+C:\Users\Ashini Reshana\source\repos\Form1\Form1\obj\Debug\Form1.Properties.Resources.resources
+C:\Users\Ashini Reshana\source\repos\Form1\Form1\obj\Debug\Form1.csproj.GenerateResource.cache
+C:\Users\Ashini Reshana\source\repos\Form1\Form1\obj\Debug\Form1.csproj.CoreCompileInputs.cache
+C:\Users\Ashini Reshana\source\repos\Form1\Form1\bin\Debug\Form1.exe.config
+C:\Users\Ashini Reshana\source\repos\Form1\Form1\bin\Debug\Form1.exe
+C:\Users\Ashini Reshana\source\repos\Form1\Form1\bin\Debug\Form1.pdb
+C:\Users\Ashini Reshana\source\repos\Form1\Form1\obj\Debug\Form1.exe
+C:\Users\Ashini Reshana\source\repos\Form1\Form1\obj\Debug\Form1.pdb
