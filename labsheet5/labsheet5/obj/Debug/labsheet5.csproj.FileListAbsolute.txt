@@ -1,0 +1,11 @@
+C:\Users\_USER_\OneDrive - NSBM\kavi 1st year\kavi 3rd semester\C#\lab\labsheet5\labsheet5\bin\Debug\labsheet5.exe.config
+C:\Users\_USER_\OneDrive - NSBM\kavi 1st year\kavi 3rd semester\C#\lab\labsheet5\labsheet5\bin\Debug\labsheet5.exe
+C:\Users\_USER_\OneDrive - NSBM\kavi 1st year\kavi 3rd semester\C#\lab\labsheet5\labsheet5\bin\Debug\labsheet5.pdb
+C:\Users\_USER_\OneDrive - NSBM\kavi 1st year\kavi 3rd semester\C#\lab\labsheet5\labsheet5\obj\Debug\labsheet5.csproj.AssemblyReference.cache
+C:\Users\_USER_\OneDrive - NSBM\kavi 1st year\kavi 3rd semester\C#\lab\labsheet5\labsheet5\obj\Debug\labsheet5.Form1.resources
+C:\Users\_USER_\OneDrive - NSBM\kavi 1st year\kavi 3rd semester\C#\lab\labsheet5\labsheet5\obj\Debug\labsheet5.Properties.Resources.resources
+C:\Users\_USER_\OneDrive - NSBM\kavi 1st year\kavi 3rd semester\C#\lab\labsheet5\labsheet5\obj\Debug\labsheet5.csproj.GenerateResource.cache
+C:\Users\_USER_\OneDrive - NSBM\kavi 1st year\kavi 3rd semester\C#\lab\labsheet5\labsheet5\obj\Debug\labsheet5.csproj.CoreCompileInputs.cache
+C:\Users\_USER_\OneDrive - NSBM\kavi 1st year\kavi 3rd semester\C#\lab\labsheet5\labsheet5\obj\Debug\labsheet5.exe
+C:\Users\_USER_\OneDrive - NSBM\kavi 1st year\kavi 3rd semester\C#\lab\labsheet5\labsheet5\obj\Debug\labsheet5.pdb
+C:\Users\_USER_\OneDrive - NSBM\kavi 1st year\kavi 3rd semester\C#\lab\labsheet5\labsheet5\obj\Debug\labsheet5.HomePage.resources
